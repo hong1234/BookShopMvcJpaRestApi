@@ -4,7 +4,7 @@ REST API Demo using Spring 5 (Boot) MVC, JPA, Security, Test
 
 git clone https://github.com/hong1234/BookShopMvcJpaRestApi.git
 
-cd MvcJpaRestApi
+cd BookShopMvcJpaRestApi
 
 //test
 
